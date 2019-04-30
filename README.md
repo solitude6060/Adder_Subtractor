@@ -3,7 +3,7 @@ DMAI course homework 2 : Adder and subtractor deep learning model
 
 
 
-# Execute program in following order
+# Please execute Adder_Subtractor.ipynb program in following order
     Please create a dir name data!!
 1. First execute train_generator.ipynb - generate training data
 2. Second execute test_generator.ipynb - generate testing data
